@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sudipta Khotel</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png">
+<img align="right" alt="Coding" width="400" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustrations%2Fcoder&psig=AOvVaw3pfS6DdsxJomhbNNaK8YNE&ust=1690815453833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCapsnYtoADFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptakhotel&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptakhotel" /> </p>
 
